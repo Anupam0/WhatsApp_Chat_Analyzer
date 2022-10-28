@@ -1,4 +1,5 @@
 https://whatsapp-chat-analyzer-anupam.herokuapp.com/
+[NOTE: Go to the three lines on top right corner of the web app---> go to settings---> turn on wide mode]
 
 ------------------------------------------------
 
@@ -10,6 +11,7 @@ Must required things to do for the app to work:
 1. Chat must be exported through an Android device
 2. The phone timing must be in 24HRS format
 3. Chat must be exported without media
+
 
 ---------------------------------------------------
 
