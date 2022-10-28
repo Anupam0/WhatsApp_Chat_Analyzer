@@ -1,0 +1,43 @@
+https://whatsapp-chat-analyzer-anupam.herokuapp.com/
+
+------------------------------------------------
+
+How to Use: go to a sample whatsapp chat and export the chat without media a text file will be genrated, which is the input of the app.
+
+Must required things to do for the app to work:
+1. Chat must be exported through an Android device
+2. The phone timing must be in 24HRS format
+3. Chat must be exported without media
+
+---------------------------------------------------
+
+This is a python based web app, which gives the analysis of whatsapp chats with individuals as well as for groups.
+The analysis can be done on whole chat as well as single member of a chat or a group.
+
+The following performance metrics are available within the app.
+1. Number of Messages sent, words, media sent, links shared
+2. Daily Timeline
+3. Monthly timeline
+4. Most Busy Day
+5. Most Busy Month
+6. Day X Time Activity Heatmap
+7. Most Active Users
+8. WordCloud
+9. Most Common Chat Words
+10. Most Common Emojis
+
+---------------------------------------------------
+
+Python libraries used are:
+1. Streamlit
+2. Numpy
+3. Pandas
+4. Matplotlib
+5. Seaborn
+6. Plotly
+7. UrlExtract
+8. Emoji
+
+--------------------------------------------------------
+
+Happy Analyzing
