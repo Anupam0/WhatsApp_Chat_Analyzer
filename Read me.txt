@@ -2,7 +2,9 @@ https://whatsapp-chat-analyzer-anupam.herokuapp.com/
 
 ------------------------------------------------
 
-How to Use: go to a sample whatsapp chat and export the chat without media a text file will be genrated, which is the input of the app.
+How to Use: go to a sample whatsapp chat and export the chat without media, a text file will be generated, which is the input of the app.
+
+WhatsApp individual chat/Group chat---> click on three dots on top right corner ---> click on more ---> export chat---> without media---> save the chat---> input it in the app.
 
 Must required things to do for the app to work:
 1. Chat must be exported through an Android device
